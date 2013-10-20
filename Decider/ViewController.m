@@ -9,6 +9,7 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+- (IBAction)LogIn:(id)sender;
 
 @end
 
@@ -26,4 +27,10 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)LogIn:(id)sender {
+    
+    
+    
+    
+}
 @end
